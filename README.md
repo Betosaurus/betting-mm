@@ -4,3 +4,5 @@ Raccolta di files sul betting dedicata espressamente alla gestione della cassa (
 ###Come effettuare il download
 
 Per scaricare i singoli file di Excel bisogna cliccare sul nome del file. Dalla finestra che si aprirà, premere su View Raw.
+
+In alternativa è possibile scaricare l'intera cartella, premendo sul pulsante Download Zip, qui affianco.
