@@ -1,12 +1,12 @@
-##Descrizione della cartella
+###Descrizione della cartella
 
 In questa cartella sono raccolti i miei files creati per gestire la manovra "ProbettingManagement" presentata dall'utente SpezzaKorna nel forum Betterbet.
 
-##Come effettuare il download
+###Come effettuare il download
 
-Per scaricare i singoli file in Excel bisogna cliccare sul file finché non si apre il suo dettaglio, dopodiché si premere su Raw.
+Per scaricare i singoli file di Excel bisogna cliccare sul nome del file. Dalla finestra che si aprirà, premere su View Raw.
 
-##Url di riferimento
+###Url di riferimento
 
 L'URL di riferimento per la discussione è questo:
 http://bet.forumfree.it/?t=70431245
